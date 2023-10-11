@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "sku": "abc",
+    "productName": "name 1",
+    "category": 1,
+    "price": 10
+  },
+  {
+    "id": 2,
+    "sku": "def",
+    "productName": "name 2",
+    "category": 2,
+    "price": 20
+  },
+  {
+    "id": 3,
+    "sku": "ghi",
+    "productName": "name 1",
+    "category": 2,
+    "price": 30
+  },
+  {
+    "id": 4,
+    "sku": "klm",
+    "productName": "name 1",
+    "category": 3,
+    "price": 40
+  },
+  {
+    "id": 5,
+    "sku": "xyz",
+    "productName": "name 1",
+    "category": 1,
+    "price": 50
+  }
+]
